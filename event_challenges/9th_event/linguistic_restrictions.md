@@ -59,10 +59,10 @@ These examples are just a guide.
 ## Morpho-Syntactic
 
 ### Main Goal: Alignment- Not a Nominative-Accusative ( Nom-Acc ) Language
-#### What is Morpho-Syntactic Alignment?
+#### What is Morpho-Syntactic Alignment
 - https://www.youtube.com/watch?v=NWdyhL8co9I
 - https://en.wikipedia.org/wiki/Morphosyntactic_alignment
-#### What is Nom-Acc Alignment?
+#### What is Nom-Acc Alignment
 - https://en.wikipedia.org/wiki/Nominative%E2%80%93accusative_alignment
 #### Some Alternatives
 - https://www.youtube.com/watch?v=684wIdZGlTA

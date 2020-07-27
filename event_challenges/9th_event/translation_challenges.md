@@ -17,7 +17,7 @@ As of some one gently rapping, rapping at my chamber door.
 - [The Raven](https://en.wikipedia.org/wiki/The_Raven), Edgar Allan Poe
 
 ## Misc
-### Original Quote:
+### Original Quote
 - Ha egyedül vagyok egy szobában, akkor ember vagyok. Ha bejön egy nő, akkor férfi lettem. És annyira vagyok férfi, amennyire nő az, aki bejött a szobába.
 ### Original Author
 - Karinthy Frigyes

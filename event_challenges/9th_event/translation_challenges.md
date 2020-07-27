@@ -14,7 +14,7 @@ As of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
             Only this and nothing more.
 ### Source
-- _[The Raven]_(https://en.wikipedia.org/wiki/The_Raven), Edgar Allan Poe
+- [The Raven](https://en.wikipedia.org/wiki/The_Raven), Edgar Allan Poe
 
 ## Misc
 ### Original Quote:
@@ -26,4 +26,4 @@ As of some one gently rapping, rapping at my chamber door.
 - When I'm alone in the room, I'm a human. When a woman comes in, I become a man. And I'm as much of a man, as the woman is, who came into the room.
 
 ### English Translator
-- Sotan
+- Unkown

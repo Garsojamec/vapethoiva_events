@@ -33,7 +33,16 @@ Things don't have to be a perfect translation.
 These examples are just a guide.
 
 ### 10+ Buildings & Architechture
-- WIP 
+1. staircase, stairwell
+2. house, home, apartment, flat
+3. bedroom, sleeping quarters
+4. bathroom, shower room, washroom, outhouse
+5. gymnasium, acrobatics center, fitness center, gym
+6. archway, doorway, pathway, entryway
+7. window, porthole, opening
+8. cellar, basement, storage space, attic
+9. pyramids, monuments
+10. arena, battle grounds
 
 ### 10+ Cognitive Words
 1. dreams, dreaming

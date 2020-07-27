@@ -33,7 +33,7 @@ Things don't have to be a perfect translation.
 These examples are just a guide.
 
 ### 10+ Buildings & Architechture
-- 
+- WIP 
 
 ### 10+ Cognitive Words
 1. dreams, dreaming
@@ -46,4 +46,6 @@ These examples are just a guide.
 8. annoyance, frustrated, irritation, peeved
 9. zest, full of life, ebuliant, excited, youthful
 10. hard-working, persistent, dilligent, persevere
-- 
+
+## Morpho-Syntactic
+### WIP

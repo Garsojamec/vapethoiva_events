@@ -59,7 +59,7 @@ These examples are just a guide.
 ## Morpho-Syntactic
 
 ### Alignment
-Not a Nominative-Accusative ( Nom-Acc ) Language
+**Main Goal: Not a Nominative-Accusative ( Nom-Acc ) Language**
 #### What is Morpho-Syntactic Alignment?
 - https://www.youtube.com/watch?v=NWdyhL8co9I
 - https://en.wikipedia.org/wiki/Morphosyntactic_alignment
@@ -70,10 +70,7 @@ Not a Nominative-Accusative ( Nom-Acc ) Language
 - https://www.youtube.com/watch?v=kFzt_GHNd1M
 
 ### Word Order
-Not an SVO Language
+**Main Goal: Not an SVO Language**
 #### What is Word Order
 - https://www.youtube.com/watch?v=zFe1ahJ_LTk
 - https://www.youtube.com/watch?v=cfxJleEzdsI
-
-
--- 

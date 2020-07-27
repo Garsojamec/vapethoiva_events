@@ -58,8 +58,7 @@ These examples are just a guide.
 
 ## Morpho-Syntactic
 
-### Alignment
-**Main Goal: Not a Nominative-Accusative ( Nom-Acc ) Language**
+### Alignment- Not a Nominative-Accusative ( Nom-Acc ) Language
 #### What is Morpho-Syntactic Alignment?
 - https://www.youtube.com/watch?v=NWdyhL8co9I
 - https://en.wikipedia.org/wiki/Morphosyntactic_alignment
@@ -69,8 +68,7 @@ These examples are just a guide.
 - https://www.youtube.com/watch?v=684wIdZGlTA
 - https://www.youtube.com/watch?v=kFzt_GHNd1M
 
-### Word Order
-**Main Goal: Not an SVO Language**
+### Word Order - Not an SOV Language
 #### What is Word Order
 - https://www.youtube.com/watch?v=zFe1ahJ_LTk
 - https://www.youtube.com/watch?v=cfxJleEzdsI
